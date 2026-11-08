@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="92" viewBox="0 0 80 92">
+  <!-- Rice-glue pot pickup: mends 1 crease. Pivot: centre. Rare (0-1 per level). -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M52,40 L68,6" fill="none" stroke="#8A6A4A" stroke-width="7"/>
+    <path d="M66,10 L74,2 L72,14 Z" fill="#2C2C2A" stroke-width="3"/>
+    <path d="M14,44 C10,74 22,88 40,88 C58,88 70,74 66,44 Z" fill="#E4EEF2" stroke-width="4.5"/>
+    <path d="M14,62 C24,56 30,68 40,62 C50,56 56,68 66,62" fill="none" stroke="#5A8FA8" stroke-width="3.5"/>
+    <ellipse cx="40" cy="44" rx="27" ry="9" fill="#FFFFFF" stroke-width="4.5"/>
+    <path d="M30,44 C34,40 42,40 48,44" fill="none" stroke="#D8CCB4" stroke-width="3"/>
+  </g>
+</svg>

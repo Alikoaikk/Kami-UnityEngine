@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="112" viewBox="0 0 160 112">
+  <!-- Ink Bat, wings up. Flies in sine waves (caves, mountain). Faces left. Pivot: centre. -->
+  <path d="M66,54 C52,30 30,16 6,20 C14,30 15,38 11,47 C22,45 28,51 28,60 C38,54 46,58 50,68 Z" fill="#2C2C2A"/>
+  <path d="M94,54 C108,30 130,16 154,20 C146,30 145,38 149,47 C138,45 132,51 132,60 C122,54 114,58 110,68 Z" fill="#2C2C2A"/>
+  <path d="M62,44 L58,26 L74,38 Z M98,44 L102,26 L86,38 Z" fill="#2C2C2A"/>
+  <circle cx="80" cy="62" r="27" fill="#2C2C2A"/>
+  <path d="M62,52 C64,44 70,40 78,39" fill="none" stroke="#5B5A55" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="70" cy="62" rx="8" ry="9" fill="#FFFFFF"/><ellipse cx="88" cy="62" rx="8" ry="9" fill="#FFFFFF"/>
+  <circle cx="67" cy="64" r="4" fill="#2C2C2A"/><circle cx="85" cy="64" r="4" fill="#2C2C2A"/>
+  <path d="M74,80 L77,87 L80,80 Z" fill="#FFFFFF"/>
+  <circle cx="80" cy="100" r="3.5" fill="#2C2C2A"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="240" viewBox="0 0 256 240">
+  <!-- The inkwell, sealed (level complete). Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M48,234 C14,208 14,138 60,114 L86,102 L170,102 L196,114 C242,138 242,208 208,234 Z" fill="#2C2C2A" stroke="none"/>
+    <rect x="86" y="70" width="84" height="36" fill="#2C2C2A" stroke="none"/>
+    <path d="M50,156 C54,134 70,120 92,114" fill="none" stroke="#5B5A55" stroke-width="7"/>
+    <rect x="72" y="52" width="112" height="22" rx="6" fill="#A32D2D" stroke-width="5"/>
+    <g transform="rotate(-8 132 166)">
+      <rect x="92" y="126" width="80" height="80" rx="9" fill="#A32D2D" stroke="#FFFFFF" stroke-width="5"/>
+      <text x="132" y="186" font-family="Hiragino Mincho ProN" font-size="58" font-weight="bold" fill="#FFFFFF" text-anchor="middle" stroke="none">封</text>
+    </g>
+  </g>
+</svg>

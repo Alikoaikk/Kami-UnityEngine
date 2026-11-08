@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48">
+  <!-- Grass tuft. Pivot: bottom centre. -->
+  <path d="M12,44 L10,18 L24,44 Z" fill="#97C459" stroke="#5F8A2E" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M24,44 L22,4 L36,44 Z" fill="#97C459" stroke="#5F8A2E" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M38,44 L46,0 L50,44 Z" fill="#97C459" stroke="#5F8A2E" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M50,44 L62,12 L62,44 Z" fill="#97C459" stroke="#5F8A2E" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M64,44 L82,14 L76,44 Z" fill="#97C459" stroke="#5F8A2E" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M74,44 L90,26 L86,44 Z" fill="#97C459" stroke="#5F8A2E" stroke-width="3" stroke-linejoin="round"/>
+</svg>

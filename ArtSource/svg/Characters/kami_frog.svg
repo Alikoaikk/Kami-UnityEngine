@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="128" viewBox="0 0 176 128">
+  <!-- Kami, frog form. Faces right. Leaps 5-tile walls. Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <!-- hind leg -->
+    <path d="M22,124 L60,94 L94,124 Z" fill="#EDE5D6" stroke-width="5"/>
+    <!-- body -->
+    <path d="M30,118 L70,70 L124,56 L158,80 L152,104 L106,120 Z" fill="#FFFFFF" stroke="none"/>
+    <path d="M70,70 L124,56 L108,94 Z" fill="#EDE5D6" stroke="none"/>
+    <path d="M30,118 L108,94 L152,104 M70,70 L108,94" fill="none" stroke-width="2.5"/>
+    <path d="M30,118 L70,70 L124,56 L158,80 L152,104 L106,120 Z" fill="none" stroke-width="5"/>
+    <!-- headband tails, tied behind the eye -->
+    <path d="M128,52 C114,38 98,32 82,34 L89,45 C101,45 113,49 124,59 Z" fill="#A32D2D" stroke-width="4"/>
+    <path d="M126,58 C114,56 102,58 92,64 L100,71 C108,66 116,64 126,65 Z" fill="#A32D2D" stroke-width="4"/>
+    <!-- eye -->
+    <circle cx="138" cy="57" r="11" fill="#FFFFFF" stroke-width="4.5"/>
+    <circle cx="141" cy="57" r="5.5" fill="#2C2C2A" stroke="none"/>
+    <path d="M158,81 L145,88" fill="none" stroke-width="3"/>
+    <!-- front leg -->
+    <path d="M116,114 L140,99 L149,124 L126,124 Z" fill="#EDE5D6" stroke-width="5"/>
+  </g>
+</svg>

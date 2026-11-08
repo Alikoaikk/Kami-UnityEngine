@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240">
+  <!-- Title logo. Pivot: centre. -->
+  <text x="276" y="150" font-family="Hiragino Mincho ProN" font-size="150" font-weight="bold" letter-spacing="26" fill="#2C2C2A" text-anchor="middle">KAMI</text>
+  <g transform="rotate(-6 620 100)">
+    <rect x="566" y="46" width="108" height="108" rx="12" fill="#A32D2D"/>
+    <rect x="574" y="54" width="92" height="92" rx="8" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+    <text x="620" y="128" font-family="Hiragino Mincho ProN" font-size="74" font-weight="bold" fill="#FFFFFF" text-anchor="middle">紙</text>
+  </g>
+  <text x="276" y="214" font-family="Hiragino Mincho ProN" font-size="30" letter-spacing="14" fill="#A32D2D" text-anchor="middle">FOLD WISELY</text>
+</svg>

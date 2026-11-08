@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="80" viewBox="0 0 96 80">
+  <!-- Golden crane collectible: 3 hidden per level. Pivot: centre. Bob + spin slowly. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round" stroke-width="3.5">
+    <path d="M34,54 L6,40 L40,48 Z" fill="#E2A93B"/>
+    <path d="M42,50 L18,10 L58,46 Z" fill="#C98A1E"/>
+    <path d="M28,54 L48,44 L70,54 L48,72 Z" fill="#F2C766"/>
+    <path d="M48,54 L70,54 L48,72 Z" fill="#E2A93B" stroke="none"/>
+    <path d="M28,54 L70,54" fill="none" stroke-width="2"/>
+    <path d="M28,54 L48,44 L70,54 L48,72 Z" fill="none"/>
+    <path d="M64,54 L86,26 L58,48 Z" fill="#F2C766"/>
+    <path d="M86,26 L94,36 L82,34 Z" fill="#F2C766"/>
+    <path d="M50,50 L72,6 L64,52 Z" fill="#F7DA92"/>
+  </g>
+  <path d="M14,62 C15,67 17,69 22,70 C17,71 15,73 14,78 C13,73 11,71 6,70 C11,69 13,67 14,62 Z" fill="#FFFFFF" stroke="#C98A1E" stroke-width="1.5"/>
+</svg>

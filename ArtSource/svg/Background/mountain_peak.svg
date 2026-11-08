@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="512" viewBox="0 0 1024 512">
+  <!-- Single snowy peak, a backdrop landmark (8 x 4 tiles). Pivot: bottom centre. -->
+  <path d="M0,512 C180,420 330,240 452,96 C480,64 544,64 572,96 C694,240 844,420 1024,512 Z" fill="#C9C0B0"/>
+  <path d="M452,96 C480,64 544,64 572,96 L626,160 L596,150 L572,176 L540,150 L512,184 L484,150 L452,172 L428,152 L398,162 Z" fill="#FFFFFF" stroke="#2C2C2A" stroke-width="5" stroke-linejoin="round"/>
+</svg>

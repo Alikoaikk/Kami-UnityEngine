@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="48" viewBox="0 0 256 48">
+  <!-- Floating log (river levels). Pivot: centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="6" y="10" width="244" height="30" rx="14" fill="#B08A5C" stroke-width="5"/>
+    <path d="M30,20 L120,20 M80,30 L190,30 M150,20 L210,20" fill="none" stroke="#8A6A44" stroke-width="3"/>
+    <ellipse cx="232" cy="25" rx="9" ry="12" fill="#D9BC8C" stroke-width="3.5"/>
+    <ellipse cx="232" cy="25" rx="3.5" ry="5" fill="none" stroke="#8A6A44" stroke-width="2.5"/>
+  </g>
+</svg>

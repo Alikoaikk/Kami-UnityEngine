@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="176" viewBox="0 0 160 176">
+  <!-- BOSS: Ink Serpent body segment. Pivot: centre. Overlap segments by ~40%. -->
+  <path d="M40,52 L52,12 L66,44 L80,2 L94,44 L108,12 L120,52 Z" fill="#2C2C2A"/>
+  <circle cx="80" cy="106" r="66" fill="#2C2C2A"/>
+  <path d="M34,90 C40,66 60,52 84,50" fill="none" stroke="#5B5A55" stroke-width="6" stroke-linecap="round"/>
+  <path d="M50,140 C66,150 90,152 112,140" fill="none" stroke="#5B5A55" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="8" cy="120" r="5" fill="#2C2C2A"/><circle cx="152" cy="96" r="4" fill="#2C2C2A"/>
+</svg>

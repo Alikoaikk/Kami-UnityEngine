@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="224" viewBox="0 0 128 224">
+  <!-- Reeds and cattails for river banks. Pivot: bottom centre. -->
+  <path d="M40,224 Q40,132.0 30,40" fill="none" stroke="#7FAE4E" stroke-width="4" stroke-linecap="round"/>
+  <rect x="23" y="40" width="14" height="40" rx="7" fill="#8A6A44" stroke="#2C2C2A" stroke-width="3.5" transform="rotate(-4.0 30 60)"/>
+  <path d="M30,40 L30,28" stroke="#2C2C2A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M64,224 Q64,122.0 70,20" fill="none" stroke="#7FAE4E" stroke-width="4" stroke-linecap="round"/>
+  <rect x="63" y="20" width="14" height="40" rx="7" fill="#8A6A44" stroke="#2C2C2A" stroke-width="3.5" transform="rotate(2.4 70 40)"/>
+  <path d="M70,20 L70,8" stroke="#2C2C2A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M88,224 Q88,140.0 100,56" fill="none" stroke="#7FAE4E" stroke-width="4" stroke-linecap="round"/>
+  <rect x="93" y="56" width="14" height="40" rx="7" fill="#8A6A44" stroke="#2C2C2A" stroke-width="3.5" transform="rotate(4.8 100 76)"/>
+  <path d="M100,56 L100,44" stroke="#2C2C2A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M54,224 Q54,157.0 34,90" fill="none" stroke="#7FAE4E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M49,224 Q54,157.0 34,90 Q60,157.0 59,224 Z" fill="#97C459" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M78,224 Q78,162.0 104,100" fill="none" stroke="#7FAE4E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M73,224 Q78,162.0 104,100 Q84,162.0 83,224 Z" fill="#97C459" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>

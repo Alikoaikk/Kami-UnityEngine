@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="236" height="180" viewBox="0 0 236 180">
+  <!-- Kami, crane form. Faces right. Rides wind, glides (falls 1.5 tiles/s). Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <!-- tail -->
+    <path d="M90,142 L16,104 L102,132 Z" fill="#EDE5D6" stroke-width="4.5"/>
+    <!-- far wing -->
+    <path d="M104,132 L54,20 L124,124 Z" fill="#DCD1BD" stroke-width="4.5"/>
+    <path d="M110,128 L68,44" fill="none" stroke-width="2.5"/>
+    <!-- body -->
+    <path d="M80,140 L118,124 L158,140 L118,176 Z" fill="#FFFFFF" stroke="none"/>
+    <path d="M118,140 L158,140 L118,176 Z" fill="#EDE5D6" stroke="none"/>
+    <path d="M80,140 L158,140" fill="none" stroke-width="2.5"/>
+    <path d="M80,140 L118,124 L158,140 L118,176 Z" fill="none" stroke-width="5"/>
+    <!-- neck + head -->
+    <path d="M152,140 L206,82 L140,130 Z" fill="#FFFFFF" stroke-width="4.5"/>
+    <path d="M206,82 L228,101 L200,95 Z" fill="#FFFFFF" stroke-width="4.5"/>
+    <!-- headband on the neck -->
+    <path d="M192,91 C182,80 170,78 158,74 L163,85 C172,89 180,93 188,97 Z" fill="#A32D2D" stroke-width="3.5"/>
+    <path d="M187,93 L196,84 L203,90 L194,99 Z" fill="#A32D2D" stroke-width="3.5"/>
+    <!-- near wing -->
+    <path d="M112,132 L150,10 L140,136 Z" fill="#FFFFFF" stroke-width="5"/>
+    <path d="M124,132 L146,40" fill="none" stroke-width="2.5"/>
+  </g>
+</svg>

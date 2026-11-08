@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <!-- Paper-sand ground (bamboo forest, river banks): top left. 1 tile. Seamless with its set. -->
+  <clipPath id="r"><path d="M10.0,10.0 L16.0,9.2 L24.0,10.7 L32.0,10.8 L40.0,7.2 L48.0,6.9 L56.0,12.2 L64.0,8.5 L72.0,8.3 L80.0,13.2 L88.0,9.8 L96.0,12.2 L104.0,9.8 L112.0,10.9 L120.0,7.8 L128.0,8.3 L136.0,10.3 L140.0,9.7 L140.0,140.0 L10.0,140.0 L7.5,136.0 L8.3,128.0 L12.7,120.0 L8.2,112.0 L7.5,104.0 L7.9,96.0 L8.6,88.0 L10.2,80.0 L8.2,72.0 L11.7,64.0 L11.9,56.0 L12.7,48.0 L9.4,40.0 L7.2,32.0 L7.8,24.0 L9.3,16.0 Z"/></clipPath>
+  <path d="M10.0,10.0 L16.0,9.2 L24.0,10.7 L32.0,10.8 L40.0,7.2 L48.0,6.9 L56.0,12.2 L64.0,8.5 L72.0,8.3 L80.0,13.2 L88.0,9.8 L96.0,12.2 L104.0,9.8 L112.0,10.9 L120.0,7.8 L128.0,8.3 L136.0,10.3 L140.0,9.7 L140.0,140.0 L10.0,140.0 L7.5,136.0 L8.3,128.0 L12.7,120.0 L8.2,112.0 L7.5,104.0 L7.9,96.0 L8.6,88.0 L10.2,80.0 L8.2,72.0 L11.7,64.0 L11.9,56.0 L12.7,48.0 L9.4,40.0 L7.2,32.0 L7.8,24.0 L9.3,16.0 Z" fill="#E2D2AE"/>
+  <g clip-path="url(#r)">
+  <path d="M10.0,20.0 L16.0,19.2 L24.0,20.7 L32.0,20.8 L40.0,17.2 L48.0,16.9 L56.0,22.2 L64.0,18.5 L72.0,18.3 L80.0,23.2 L88.0,19.8 L96.0,22.2 L104.0,19.8 L112.0,20.9 L120.0,17.8 L128.0,18.3 L136.0,20.3 L140.0,19.7" fill="none" stroke="#D3BF96" stroke-width="10"/>
+  <path d="M93.4,66.1 l8.1,1.2" stroke="#D4C29C" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M91.3,77.7 l13.4,-1.2" stroke="#D4C29C" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M77.8,49.4 l8.2,0.9" stroke="#D4C29C" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M45.0,81.1 l12.9,-1.1" stroke="#D4C29C" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M32.3,39.4 l8.1,-0.0" stroke="#D4C29C" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M93.3,35.3 l12.3,-0.1" stroke="#D4C29C" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M64.9,37.3 l12.6,-0.7" stroke="#D4C29C" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <path d="M10.0,10.0 L16.0,9.2 L24.0,10.7 L32.0,10.8 L40.0,7.2 L48.0,6.9 L56.0,12.2 L64.0,8.5 L72.0,8.3 L80.0,13.2 L88.0,9.8 L96.0,12.2 L104.0,9.8 L112.0,10.9 L120.0,7.8 L128.0,8.3 L136.0,10.3 L140.0,9.7" fill="none" stroke="#2C2C2A" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M8.4,140.0 L7.5,136.0 L8.3,128.0 L12.7,120.0 L8.2,112.0 L7.5,104.0 L7.9,96.0 L8.6,88.0 L10.2,80.0 L8.2,72.0 L11.7,64.0 L11.9,56.0 L12.7,48.0 L9.4,40.0 L7.2,32.0 L7.8,24.0 L9.3,16.0 L7.9,10.0" fill="none" stroke="#2C2C2A" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

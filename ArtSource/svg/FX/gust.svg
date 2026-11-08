@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="128" viewBox="0 0 256 128">
+  <!-- Fan gust lines, blows to the right (4 tiles). Pivot: left centre (set in code or Sprite Editor). -->
+  <g fill="none" stroke="#5A8FA8" stroke-linecap="round" stroke-width="5">
+    <path d="M8,40 C60,24 120,52 176,34 C200,26 214,34 210,46 C206,56 192,52 194,44"/>
+    <path d="M24,68 C90,60 150,76 236,64"/>
+    <path d="M12,96 C70,110 130,84 186,100 C208,106 214,118 202,122 C192,124 188,114 196,110"/>
+  </g>
+</svg>

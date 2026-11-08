@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="44" viewBox="0 0 144 44">
+  <!-- Lily pad (level 8: the fan pushes them). Pivot: centre. -->
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <path d="M72,24 L137,18 A66,17 0 1 0 137,30 Z" fill="#A3C96E" stroke="#5F8A2E" stroke-width="3.5"/>
+    <path d="M72,24 L20,16 M72,24 L16,30 M72,24 L60,9 M72,24 L64,39 M72,24 L104,10 M72,24 L104,39" fill="none" stroke="#7FAE4E" stroke-width="2.5"/>
+  </g>
+</svg>

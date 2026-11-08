@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <!-- Ink Squid, spitting (spawn an ink_drip at the mouth on this frame). Pivot: bottom centre. -->
+  <g fill="none" stroke="#2C2C2A" stroke-width="9" stroke-linecap="round">
+    <path d="M50,108 C40,120 26,122 18,112"/><path d="M64,112 C60,128 48,134 38,128"/>
+    <path d="M80,112 C84,128 96,134 106,128"/><path d="M94,108 C104,120 118,122 126,112"/>
+  </g>
+  <path d="M50,32 L26,26 L44,48 Z M94,32 L118,26 L100,48 Z" fill="#2C2C2A"/>
+  <path d="M72,12 C96,24 114,48 114,76 C114,102 96,118 72,118 C48,118 30,102 30,76 C30,48 48,24 72,12 Z" fill="#2C2C2A"/>
+  <circle cx="58" cy="72" r="11" fill="#FFFFFF"/><circle cx="84" cy="72" r="11" fill="#FFFFFF"/>
+  <path d="M48,66 L66,70 M94,66 L76,70" stroke="#2C2C2A" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="55" cy="75" r="5" fill="#2C2C2A"/><circle cx="81" cy="75" r="5" fill="#2C2C2A"/>
+  <ellipse cx="66" cy="100" rx="9" ry="8" fill="#5B5A55"/>
+  <circle cx="44" cy="96" r="6" fill="#2C2C2A"/><circle cx="32" cy="90" r="4" fill="#2C2C2A"/>
+</svg>

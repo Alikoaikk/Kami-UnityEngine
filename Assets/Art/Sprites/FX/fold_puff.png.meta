@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: 220ce41f49a1f4a0bba24710a77533ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6326493752902125630
+    second: fold_puff_0
+  - first:
+      213: 3918254984646532616
+    second: fold_puff_1
+  - first:
+      213: 5378406949706309040
+    second: fold_puff_2
+  - first:
+      213: -4848311463524051973
+    second: fold_puff_3
+  - first:
+      213: 8478164001420086807
+    second: fold_puff_4
+  - first:
+      213: -2177369148297778714
+    second: fold_puff_5
+  - first:
+      213: -8526144003750675338
+    second: fold_puff_6
+  - first:
+      213: 5692076774264133323
+    second: fold_puff_7
+  - first:
+      213: -8857895460725702994
+    second: fold_puff_8
+  - first:
+      213: 3186678191409802718
+    second: fold_puff_9
+  - first:
+      213: 2093565487671324325
+    second: fold_puff_10
+  - first:
+      213: 4578633557447108922
+    second: fold_puff_11
+  - first:
+      213: 1138552224734414438
+    second: fold_puff_12
+  - first:
+      213: -8653176637852377957
+    second: fold_puff_13
+  - first:
+      213: 8618931716857624141
+    second: fold_puff_14
+  - first:
+      213: -1809102515558642202
+    second: fold_puff_15
+  - first:
+      213: -5521961990606184757
+    second: fold_puff_16
+  - first:
+      213: 7817644161189829307
+    second: fold_puff_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fold_puff_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 155
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38857f8c883cc750800000000000000
+      internalID: 6326493752902125630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fold_puff_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 159
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e92431620706630800000000000000
+      internalID: 3918254984646532616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fold_puff_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 149
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd9cbeef90f3aa40800000000000000
+      internalID: 5378406949706309040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fold_puff_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 119
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3d130596657bcb0800000000000000
+      internalID: -4848311463524051973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fold_puff_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 125
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e06247d3d78a570800000000000000
+      internalID: 8478164001420086807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fold_puff_5
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 137
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9e0dabb4e68c1e0800000000000000
+      internalID: -2177369148297778714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fold_puff_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 125
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c3d98b33d0da980800000000000000
+      internalID: -8526144003750675338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fold_puff_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 111
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6d3441ba15efe40800000000000000
+      internalID: 5692076774264133323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fold_puff_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 93
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae36e5720f621580800000000000000
+      internalID: -8857895460725702994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fold_puff_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 93
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd277c6eea593c20800000000000000
+      internalID: 3186678191409802718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fold_puff_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aeaaa608b6dd0d10800000000000000
+      internalID: 2093565487671324325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fold_puff_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 53
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39615c36f29a8f30800000000000000
+      internalID: 4578633557447108922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fold_puff_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 37
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66686815733fccf00800000000000000
+      internalID: 1138552224734414438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fold_puff_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 53
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c9912c1bdb9e780800000000000000
+      internalID: -8653176637852377957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fold_puff_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4675ae3bb89c9770800000000000000
+      internalID: 8618931716857624141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fold_puff_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 5
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed8cddd8d6c4e6e0800000000000000
+      internalID: -1809102515558642202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fold_puff_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 5
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce95be73dc0e53b0800000000000000
+      internalID: -5521961990606184757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fold_puff_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 13
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba5028e1f9dd7c60800000000000000
+      internalID: 7817644161189829307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fold_puff_0: 6326493752902125630
+      fold_puff_1: 3918254984646532616
+      fold_puff_10: 2093565487671324325
+      fold_puff_11: 4578633557447108922
+      fold_puff_12: 1138552224734414438
+      fold_puff_13: -8653176637852377957
+      fold_puff_14: 8618931716857624141
+      fold_puff_15: -1809102515558642202
+      fold_puff_16: -5521961990606184757
+      fold_puff_17: 7817644161189829307
+      fold_puff_2: 5378406949706309040
+      fold_puff_3: -4848311463524051973
+      fold_puff_4: 8478164001420086807
+      fold_puff_5: -2177369148297778714
+      fold_puff_6: -8526144003750675338
+      fold_puff_7: 5692076774264133323
+      fold_puff_8: -8857895460725702994
+      fold_puff_9: 3186678191409802718
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: kami-art-v1
+  assetBundleName: 
+  assetBundleVariant: 

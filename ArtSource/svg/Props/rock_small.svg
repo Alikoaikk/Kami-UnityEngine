@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="64" viewBox="0 0 96 64">
+  <!-- Small rock. Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M8,60 C6,40 20,20 44,16 C66,12 86,28 88,60 Z" fill="#A39C90" stroke-width="4.5"/>
+    <path d="M24,38 C30,28 40,24 50,23" fill="none" stroke="#C4BDB0" stroke-width="5"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="224" viewBox="0 0 320 224">
+  <!-- BOSS: Ink Serpent head (finale, rises from the spilled inkwell). Faces left. Pivot: centre.
+       Chain ink_serpent_body segments behind it and end with ink_serpent_tail. -->
+  <path d="M220,44 C228,16 250,2 276,4 C258,14 250,30 248,50 Z" fill="#2C2C2A"/>
+  <path d="M246,58 C266,36 290,30 312,40 C294,44 280,56 274,72 Z" fill="#2C2C2A"/>
+  <path d="M262,96 L306,86 L284,112 L316,120 L286,136 L310,156 L276,160 L290,184 L252,176 Z" fill="#2C2C2A"/>
+  <path d="M20,116 C30,90 70,70 120,66 C150,40 190,30 230,40 C270,48 300,80 304,118 C308,160 280,196 236,200 L132,196 C88,192 46,172 24,150 Z" fill="#2C2C2A"/>
+  <path d="M26,128 C60,134 96,140 132,150 C96,158 60,162 28,152 Z" fill="#6E1A1A"/>
+  <path d="M38,130 L44,142 L50,131 Z M60,133 L66,146 L72,135 Z M82,137 L88,150 L94,139 Z M104,141 L110,152 L116,143 Z" fill="#FFFFFF"/>
+  <path d="M44,154 L50,143 L56,155 Z M68,157 L74,146 L80,158 Z M92,157 L98,147 L104,157 Z" fill="#FFFFFF"/>
+  <path d="M44,104 C26,84 14,58 22,32 C24,58 34,82 54,98 Z" fill="#2C2C2A"/>
+  <path d="M60,98 C50,76 50,52 62,34 C60,58 64,78 72,94 Z" fill="#2C2C2A"/>
+  <ellipse cx="176" cy="94" rx="22" ry="17" fill="#FFFFFF"/>
+  <circle cx="169" cy="96" r="10" fill="#A32D2D"/><circle cx="167" cy="96" r="4.5" fill="#2C2C2A"/>
+  <path d="M146,74 C162,66 186,66 204,76" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M120,80 C150,62 190,54 226,60 M200,170 C230,176 262,168 284,148" fill="none" stroke="#5B5A55" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="42" cy="110" r="4" fill="#5B5A55"/>
+</svg>

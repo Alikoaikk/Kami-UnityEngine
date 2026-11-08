@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="40" viewBox="0 0 128 40">
+  <!-- Wind vent: base of a wind column (pair with M_Wind on a Square sprite). Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="4" y="8" width="120" height="30" rx="4" fill="#2C2C2A" stroke-width="4"/>
+    <path d="M24,16 L24,30 M44,16 L44,30 M64,16 L64,30 M84,16 L84,30 M104,16 L104,30" fill="none" stroke="#6E8F9E" stroke-width="5"/>
+  </g>
+</svg>

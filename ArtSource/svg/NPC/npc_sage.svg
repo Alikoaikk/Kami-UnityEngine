@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="256" viewBox="0 0 176 256">
+  <!-- NPC: the Paper Sage, an old folded master who gives fold diagrams and hints. Faces left. Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <!-- staff + ofuda charm -->
+    <path d="M150,60 L150,252" fill="none" stroke="#8A6A4A" stroke-width="8"/>
+    <path d="M150,60 L150,252" fill="none" stroke-width="2.5" stroke-opacity="0.35"/>
+    <path d="M150,70 L162,74 L160,118 L148,114 Z" fill="#A32D2D" stroke-width="3"/>
+    <path d="M154,84 L157,85 M153,94 L157,95 M153,104 L156,105" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <!-- feet -->
+    <rect x="48" y="238" width="24" height="16" rx="6" fill="#2C2C2A" stroke="none"/>
+    <rect x="88" y="238" width="24" height="16" rx="6" fill="#2C2C2A" stroke="none"/>
+    <!-- robe -->
+    <path d="M48,132 L112,132 L132,246 L28,246 Z" fill="#7393A6" stroke="none"/>
+    <path d="M80,132 L112,132 L132,246 L80,246 Z" fill="#5E7C8E" stroke="none"/>
+    <rect x="34" y="176" width="92" height="12" fill="#2C2C2A" stroke="none"/>
+    <path d="M48,132 L112,132 L132,246 L28,246 Z" fill="none" stroke-width="5"/>
+    <!-- sleeves -->
+    <path d="M50,140 L24,196 L54,190 Z" fill="#7393A6" stroke-width="4.5"/>
+    <path d="M110,140 L140,180 L114,188 Z" fill="#5E7C8E" stroke-width="4.5"/>
+    <circle cx="144" cy="176" r="7" fill="#F2E6C9" stroke-width="3.5"/>
+    <!-- head -->
+    <rect x="48" y="66" width="68" height="66" rx="14" fill="#F2E6C9" stroke-width="5"/>
+    <path d="M58,96 Q64,91 70,96 M84,96 Q90,91 96,96" fill="none" stroke-width="3.5"/>
+    <path d="M54,88 L72,86 M82,86 L100,88" fill="none" stroke="#FFFFFF" stroke-width="5"/>
+    <path d="M54,88 L72,86 M82,86 L100,88" fill="none" stroke-width="1.5"/>
+    <!-- beard of paper strips -->
+    <path d="M54,110 L106,110 L98,206 L88,186 L80,214 L70,184 L60,200 Z" fill="#FFFFFF" stroke-width="4"/>
+    <path d="M70,114 L70,184 M80,114 L80,212 M90,114 L88,186" fill="none" stroke-width="2"/>
+    <path d="M66,108 Q80,100 94,108" fill="none" stroke-width="3"/>
+    <!-- straw hat -->
+    <path d="M14,74 L82,26 L150,74 Z" fill="#D8B87A" stroke-width="5"/>
+    <path d="M82,26 L50,74 M82,26 L82,74 M82,26 L114,74" fill="none" stroke="#A88A4E" stroke-width="2.5"/>
+    <path d="M14,74 L150,74" fill="none" stroke-width="5"/>
+  </g>
+</svg>

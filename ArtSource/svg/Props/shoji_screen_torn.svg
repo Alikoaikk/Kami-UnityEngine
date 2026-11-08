@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="256" viewBox="0 0 128 256">
+  <!-- Shoji screen, torn through (passable). Pivot: bottom centre. -->
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <path d="M10,8 L118,8 L118,252 L10,252 Z M30,92 L50,70 L72,84 L96,66 L104,100 L92,140 L100,178 L76,196 L52,186 L30,198 L24,160 L36,130 Z" fill="#FBF7EE" fill-rule="evenodd"/>
+    <path d="M30,92 L50,70 L72,84 L96,66 L104,100 L92,140 L100,178 L76,196 L52,186 L30,198 L24,160 L36,130 Z" fill="none" stroke="#D8CCB4" stroke-width="3"/>
+    <path d="M38,10 L38,80 M38,186 L38,250 M64,10 L64,78 M64,190 L64,250 M90,10 L90,72 M90,190 L90,250 M12,64 L116,64 M12,176 L28,176 M98,176 L116,176 M12,120 L32,120 M100,120 L116,120" fill="none" stroke="#8A6A4A" stroke-width="5"/>
+    <path d="M38,80 L44,92 M64,78 L58,90 M90,72 L96,84" fill="none" stroke="#8A6A4A" stroke-width="5"/>
+    <rect x="10" y="8" width="108" height="244" fill="none" stroke="#6B4F35" stroke-width="10"/>
+    <rect x="5" y="3" width="118" height="254" fill="none" stroke="#2C2C2A" stroke-width="4"/>
+  </g>
+</svg>

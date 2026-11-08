@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <!-- Sparkle: pickups, stone activation, unlocks. Pivot: centre. -->
+  <path d="M24,2 C26,18 30,22 46,24 C30,26 26,30 24,46 C22,30 18,26 2,24 C18,22 22,18 24,2 Z" fill="#F2C766" stroke="#C98A1E" stroke-width="2" stroke-linejoin="round"/>
+</svg>

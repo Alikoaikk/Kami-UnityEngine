@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="64" viewBox="0 0 40 64">
+  <!-- Ink drip (Ink rain, level 10). Pivot: centre. -->
+  <path d="M20,4 C20,4 36,30 36,43 C36,53 28,61 20,61 C12,61 4,53 4,43 C4,30 20,4 20,4 Z" fill="#2C2C2A"/>
+  <path d="M11,44 C11,38 14,32 17,27" fill="none" stroke="#5B5A55" stroke-width="3.5" stroke-linecap="round"/>
+</svg>

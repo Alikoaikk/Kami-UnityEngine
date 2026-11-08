@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <!-- Firefly glow (ambient, river at dusk). Pulse its alpha. Pivot: centre. -->
+  <defs><radialGradient id="g"><stop offset="0" stop-color="#FFE9A8" stop-opacity="0.9"/><stop offset="1" stop-color="#F2C766" stop-opacity="0"/></radialGradient></defs>
+  <circle cx="24" cy="24" r="23" fill="url(#g)"/>
+  <circle cx="24" cy="24" r="4.5" fill="#FFF6D6"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="128" viewBox="0 0 96 128">
+  <!-- Fire, frame A. Tears any shape on touch. Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M48,124 C18,124 8,100 14,80 C18,64 30,58 30,40 C42,52 44,62 44,70 C50,54 58,34 52,8 C72,24 88,52 86,84 C86,108 74,124 48,124 Z" fill="#E07B39" stroke-width="4.5"/>
+    <path d="M48,120 C34,120 28,108 32,96 C36,86 44,82 46,70 C56,80 64,92 62,104 C62,114 56,120 48,120 Z" fill="#F2B84B" stroke="none"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="210" viewBox="0 0 168 210">
+  <!-- Kami, umbrella form. Blocks drips, falls slowly. Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <!-- shaft + hook -->
+    <path d="M84,96 L84,184 C84,204 62,208 60,190" fill="none" stroke-width="6"/>
+    <!-- grip wrap + tails -->
+    <path d="M82,156 C70,150 58,152 46,156 L52,165 C62,163 72,163 82,165 Z" fill="#A32D2D" stroke-width="3.5"/>
+    <rect x="78" y="150" width="12" height="24" rx="3" fill="#A32D2D" stroke-width="3.5"/>
+    <!-- canopy panels -->
+    <g stroke-width="2.5">
+      <path d="M84,22 L10,96 Q22.33,106 34.67,96 Z" fill="#FFFFFF"/>
+      <path d="M84,22 L34.67,96 Q47,106 59.33,96 Z" fill="#EDE5D6"/>
+      <path d="M84,22 L59.33,96 Q71.67,106 84,96 Z" fill="#FFFFFF"/>
+      <path d="M84,22 L84,96 Q96.33,106 108.67,96 Z" fill="#EDE5D6"/>
+      <path d="M84,22 L108.67,96 Q121,106 133.33,96 Z" fill="#FFFFFF"/>
+      <path d="M84,22 L133.33,96 Q145.67,106 158,96 Z" fill="#EDE5D6"/>
+    </g>
+    <path d="M54,52 Q84,42 114,52" fill="none" stroke="#A32D2D" stroke-width="5"/>
+    <path d="M84,22 L10,96 Q22.33,106 34.67,96 Q47,106 59.33,96 Q71.67,106 84,96 Q96.33,106 108.67,96 Q121,106 133.33,96 Q145.67,106 158,96 Z" fill="none" stroke-width="5"/>
+    <!-- finial -->
+    <path d="M84,22 L84,10" fill="none" stroke-width="4"/>
+    <circle cx="84" cy="9" r="5.5" fill="#A32D2D" stroke-width="3.5"/>
+  </g>
+</svg>

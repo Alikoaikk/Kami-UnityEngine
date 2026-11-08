@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="224" viewBox="0 0 224 224">
+  <!-- Tear burst: plays when Kami tears (crease limit or hazard). Pivot: centre. -->
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <path d="M112,28 L122,84 L170,46 L136,98 L196,104 L138,124 L178,170 L122,140 L112,196 L102,140 L46,170 L86,124 L28,104 L88,98 L54,46 L102,84 Z" fill="#FFFFFF" stroke="#A32D2D" stroke-width="5"/>
+    <path d="M112,70 L118,96 L144,92 L122,110 L136,134 L112,120 L88,134 L102,110 L80,92 L106,96 Z" fill="#A32D2D"/>
+    <path d="M30,30 L44,40 M194,30 L180,40 M30,194 L44,184 M194,194 L180,184" stroke="#2C2C2A" stroke-width="5"/>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <!-- Blank keycap for control prompts (put the key letter on top as text). 9-slice: border 16. -->
+  <rect x="4" y="4" width="56" height="56" rx="10" fill="#D8CCB4" stroke="#2C2C2A" stroke-width="4"/>
+  <rect x="9" y="7" width="46" height="44" rx="7" fill="#FFFFFF"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+  <!-- Level star, earned. -->
+  <path d="M36,6 L44.2,26.7 L66.4,28.1 L49.3,42.3 L54.8,63.9 L36,52 L17.2,63.9 L22.7,42.3 L5.6,28.1 L27.8,26.7 Z" fill="#E2A93B" stroke="#2C2C2A" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M36,16 L40.6,28.6 L50,29.4" fill="none" stroke="#F7DA92" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="184" height="140" viewBox="0 0 184 140">
+  <!-- Kami, fan form. Pivot: bottom centre. Ability: 4-tile gust. -->
+  <defs>
+    <path id="pleat" d="M86.54,96.54 L75.61,41.61 A84,84 0 0 1 108.39,41.61 L97.46,96.54 A28,28 0 0 0 86.54,96.54 Z"/>
+  </defs>
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <!-- headband tails off the rivet -->
+    <path d="M88,126 C72,130 58,128 44,121 L48,132 C60,137 75,137 88,132 Z" fill="#A32D2D" stroke-width="4"/>
+    <!-- ribs below the paper -->
+    <path d="M92,124 L8,124 M92,124 L14.4,91.9 M92,124 L32.6,64.6 M92,124 L59.9,46.4 M92,124 L92,40 M92,124 L124.1,46.4 M92,124 L151.4,64.6 M92,124 L169.6,91.9 M92,124 L176,124" fill="none" stroke-width="3.5"/>
+    <!-- pleats -->
+    <g stroke-width="2.5">
+      <use xlink:href="#pleat" transform="rotate(-78.75 92 124)" fill="#FFFFFF"/>
+      <use xlink:href="#pleat" transform="rotate(-56.25 92 124)" fill="#EDE5D6"/>
+      <use xlink:href="#pleat" transform="rotate(-33.75 92 124)" fill="#FFFFFF"/>
+      <use xlink:href="#pleat" transform="rotate(-11.25 92 124)" fill="#EDE5D6"/>
+      <use xlink:href="#pleat" transform="rotate(11.25 92 124)" fill="#FFFFFF"/>
+      <use xlink:href="#pleat" transform="rotate(33.75 92 124)" fill="#EDE5D6"/>
+      <use xlink:href="#pleat" transform="rotate(56.25 92 124)" fill="#FFFFFF"/>
+      <use xlink:href="#pleat" transform="rotate(78.75 92 124)" fill="#EDE5D6"/>
+    </g>
+    <!-- red band across the paper -->
+    <path d="M24,96 A72,72 0 0 1 160,96" fill="none" stroke="#A32D2D" stroke-width="7" stroke-linecap="butt"/>
+    <!-- outline -->
+    <path d="M8,124 A84,84 0 0 1 176,124 L120,124 A28,28 0 0 0 64,124 Z" fill="none" stroke-width="5"/>
+    <circle cx="92" cy="124" r="8" fill="#A32D2D" stroke-width="4"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="128" viewBox="0 0 96 128">
+  <!-- Fire, frame B (alternate with fire for a flicker). Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M48,124 C22,124 8,104 12,84 C16,68 26,60 22,44 C36,54 40,64 40,72 C44,52 38,30 46,12 C58,30 70,40 76,58 C80,48 80,40 78,34 C90,52 90,72 86,90 C82,110 70,124 48,124 Z" fill="#E07B39" stroke-width="4.5"/>
+    <path d="M48,120 C36,120 28,110 32,98 C34,90 40,86 42,76 C52,84 60,94 60,104 C60,114 56,120 48,120 Z" fill="#F2B84B" stroke="none"/>
+  </g>
+</svg>

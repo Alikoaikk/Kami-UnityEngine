@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="96" viewBox="0 0 256 96">
+  <!-- Paper cloud platform, 2 tiles: moves along a path (mountain). One-way. Pivot: top centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M16,84 C2,84 2,60 20,58 C18,36 44,28 58,40 C66,18 100,14 112,34 C124,10 164,12 172,36 C190,24 216,32 214,54 C238,52 252,70 240,84 Z" fill="#FFFFFF" stroke-width="5"/>
+    <path d="M60,62 C62,52 74,50 78,58 C80,64 72,68 68,62 M150,58 C154,48 168,48 170,58 C172,66 160,68 158,60" fill="none" stroke="#D8CCB4" stroke-width="3.5"/>
+    <path d="M16,84 L240,84" fill="none" stroke="#D8CCB4" stroke-width="3"/>
+  </g>
+</svg>

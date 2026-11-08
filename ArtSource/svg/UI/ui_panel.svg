@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="320" viewBox="0 0 384 320">
+  <!-- Menu panel: hanging scroll (makimono). 9-slice: border L/R 40, T/B 64 (set by the importer). -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="24" y="34" width="336" height="252" fill="#F7F0E2" stroke-width="5"/>
+    <rect x="38" y="52" width="308" height="216" fill="none" stroke="#D8CCB4" stroke-width="2.5"/>
+    <rect x="8" y="14" width="368" height="28" rx="12" fill="#6B4F35" stroke-width="5"/>
+    <rect x="8" y="278" width="368" height="28" rx="12" fill="#6B4F35" stroke-width="5"/>
+    <path d="M24,22 L360,22 M24,286 L360,286" fill="none" stroke="#8A6A4A" stroke-width="4"/>
+    <rect x="320" y="238" width="22" height="22" rx="3" fill="#A32D2D" stroke="none"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <!-- Fold puff: plays on every fold. Pivot: centre. Scale up + fade out over ~0.25 s. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round" stroke-width="3">
+    <path d="M96,14 L106,30 L88,30 Z M166,58 L178,74 L160,78 Z M170,128 L180,146 L162,142 Z M100,170 L110,184 L92,184 Z M28,138 L36,156 L18,152 Z M18,60 L34,52 L32,70 Z" fill="#FFFFFF"/>
+    <path d="M140,26 L152,30 L146,40 Z M44,24 L56,22 L52,34 Z M146,166 L158,162 L154,176 Z M48,172 L60,174 L52,184 Z" fill="#EDE5D6"/>
+    <path d="M96,52 L96,40 M128,64 L138,56 M140,96 L152,96 M128,128 L138,136 M96,140 L96,152 M64,128 L54,136 M52,96 L40,96 M64,64 L54,56" fill="none" stroke-width="4"/>
+  </g>
+</svg>

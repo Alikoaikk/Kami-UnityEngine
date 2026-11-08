@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="112" viewBox="0 0 144 112">
+  <!-- Paper Moth, wings open. Eats paper: each touch adds 1 crease. Flutters toward Kami. Pivot: centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M72,64 C56,70 34,90 40,102 C48,110 66,92 72,70 Z" fill="#A69A86" stroke-width="4"/>
+    <path d="M72,64 C88,70 110,90 104,102 C96,110 78,92 72,70 Z" fill="#A69A86" stroke-width="4"/>
+    <path d="M72,56 C60,20 20,8 10,28 C2,46 30,60 72,62 Z" fill="#C2B7A3" stroke-width="4.5"/>
+    <path d="M72,56 C84,20 124,8 134,28 C142,46 114,60 72,62 Z" fill="#C2B7A3" stroke-width="4.5"/>
+    <circle cx="36" cy="32" r="9" fill="#F4ECDD" stroke-width="3"/><circle cx="36" cy="32" r="3.5" fill="#2C2C2A" stroke="none"/>
+    <circle cx="108" cy="32" r="9" fill="#F4ECDD" stroke-width="3"/><circle cx="108" cy="32" r="3.5" fill="#2C2C2A" stroke="none"/>
+    <path d="M20,44 C34,50 50,54 64,56 M124,44 C110,50 94,54 80,56" fill="none" stroke="#8A7F70" stroke-width="2.5"/>
+    <ellipse cx="72" cy="66" rx="9" ry="24" fill="#8A7F70" stroke-width="4"/>
+    <path d="M65,60 L79,60 M64,70 L80,70 M66,80 L78,80" fill="none" stroke-width="2"/>
+    <circle cx="72" cy="40" r="10" fill="#8A7F70" stroke-width="4"/>
+    <circle cx="68" cy="40" r="3" fill="#FFFFFF" stroke="none"/><circle cx="77" cy="40" r="3" fill="#FFFFFF" stroke="none"/>
+    <path d="M68,31 C62,18 52,12 44,14 M76,31 C82,18 92,12 100,14" fill="none" stroke-width="3"/>
+    <path d="M56,17 L54,22 M50,14 L47,19 M88,17 L90,22 M94,14 L97,19" fill="none" stroke-width="2.5"/>
+  </g>
+</svg>

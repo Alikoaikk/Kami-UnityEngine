@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="48" viewBox="0 0 128 48">
+  <!-- Floor switch, held down. Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="28" y="24" width="72" height="10" rx="4" fill="#7E2323" stroke-width="4.5"/>
+    <rect x="6" y="30" width="116" height="16" rx="4" fill="#857E73" stroke-width="4.5"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="80" viewBox="0 0 128 80">
+  <!-- Lotus on a pad (river decoration). Pivot: bottom centre (sits on the water line). -->
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <ellipse cx="64" cy="66" rx="60" ry="12" fill="#A3C96E" stroke="#5F8A2E" stroke-width="3.5"/>
+    <g stroke="#2C2C2A" stroke-width="3.5">
+      <path d="M64,62 C40,60 26,44 28,30 C42,32 56,44 64,62 Z" fill="#F7EDE8"/>
+      <path d="M64,62 C88,60 102,44 100,30 C86,32 72,44 64,62 Z" fill="#F7EDE8"/>
+      <path d="M64,62 C50,50 46,28 54,14 C62,24 66,44 64,62 Z" fill="#FFFFFF"/>
+      <path d="M64,62 C78,50 82,28 74,14 C66,24 62,44 64,62 Z" fill="#FFFFFF"/>
+      <path d="M64,62 C56,46 56,20 64,4 C72,20 72,46 64,62 Z" fill="#FFFFFF"/>
+    </g>
+    <path d="M64,8 L64,16 M54,18 L56,24 M74,18 L72,24 M30,32 L36,35 M98,32 L92,35" stroke="#C04848" stroke-width="4"/>
+  </g>
+</svg>

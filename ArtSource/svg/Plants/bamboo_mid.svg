@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="576" viewBox="0 0 224 576">
+  <!-- Bamboo stalk, 4.5 tiles tall. Pivot: bottom centre. Bamboo forest (levels 1-4). -->
+  <path d="M101.0,281.2 L79.0,261.2" stroke="#5F8A2E" stroke-width="3" stroke-linecap="round"/>
+  <g transform="translate(79.0,261.2) rotate(204.0)"><path d="M0,0 Q27.1,-9.0 60.2,0 Q27.1,9.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L48.2,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <g transform="translate(79.0,261.2) rotate(171.1)"><path d="M0,0 Q28.7,-9.0 63.8,0 Q28.7,9.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L51.0,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <g transform="translate(79.0,261.2) rotate(143.9)"><path d="M0,0 Q25.2,-9.0 56.0,0 Q25.2,9.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L44.8,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <path d="M101.0,580 L101.0,25.0 A11.0,11.0 0 0 1 123.0,25.0 L123.0,580 Z" fill="#97C459" stroke="#5F8A2E" stroke-width="3.5"/>
+  <rect x="114" y="22" width="7.0" height="562" fill="#86B34A"/>
+  <path d="M106.0,30 L106.0,580" stroke="#B5DA80" stroke-width="3"/>
+  <rect x="98.5" y="473.8" width="27" height="7" rx="3.5" fill="#7FAE4E" stroke="#5F8A2E" stroke-width="2.5"/>
+  <rect x="98.5" y="363.3" width="27" height="7" rx="3.5" fill="#7FAE4E" stroke="#5F8A2E" stroke-width="2.5"/>
+  <rect x="98.5" y="277.7" width="27" height="7" rx="3.5" fill="#7FAE4E" stroke="#5F8A2E" stroke-width="2.5"/>
+  <rect x="98.5" y="191.3" width="27" height="7" rx="3.5" fill="#7FAE4E" stroke="#5F8A2E" stroke-width="2.5"/>
+  <rect x="98.5" y="83.9" width="27" height="7" rx="3.5" fill="#7FAE4E" stroke="#5F8A2E" stroke-width="2.5"/>
+  <g transform="translate(112.0,24.0) rotate(-144.8)"><path d="M0,0 Q23.4,-8.0 52.0,0 Q23.4,8.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L41.6,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <g transform="translate(112.0,24.0) rotate(-113.2)"><path d="M0,0 Q25.4,-8.0 56.5,0 Q25.4,8.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L45.2,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <g transform="translate(112.0,24.0) rotate(-63.6)"><path d="M0,0 Q25.7,-8.0 57.2,0 Q25.7,8.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L45.7,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <g transform="translate(112.0,24.0) rotate(-25.1)"><path d="M0,0 Q23.0,-8.0 51.1,0 Q23.0,8.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L40.9,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+</svg>

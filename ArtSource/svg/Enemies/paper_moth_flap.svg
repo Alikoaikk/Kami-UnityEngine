@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="112" viewBox="0 0 144 112">
+  <!-- Paper Moth, wings half-closed (alternate with paper_moth). Pivot: centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M72,64 C62,72 50,90 54,100 C60,106 68,90 72,70 Z" fill="#A69A86" stroke-width="4"/>
+    <path d="M72,64 C82,72 94,90 90,100 C84,106 76,90 72,70 Z" fill="#A69A86" stroke-width="4"/>
+    <path d="M72,56 C64,26 40,10 32,24 C24,40 44,58 72,62 Z" fill="#B3A893" stroke-width="4.5"/>
+    <path d="M72,56 C80,26 104,10 112,24 C120,40 100,58 72,62 Z" fill="#B3A893" stroke-width="4.5"/>
+    <circle cx="48" cy="32" r="7" fill="#F4ECDD" stroke-width="3"/><circle cx="48" cy="32" r="3" fill="#2C2C2A" stroke="none"/>
+    <circle cx="96" cy="32" r="7" fill="#F4ECDD" stroke-width="3"/><circle cx="96" cy="32" r="3" fill="#2C2C2A" stroke="none"/>
+    <ellipse cx="72" cy="66" rx="9" ry="24" fill="#8A7F70" stroke-width="4"/>
+    <path d="M65,60 L79,60 M64,70 L80,70 M66,80 L78,80" fill="none" stroke-width="2"/>
+    <circle cx="72" cy="40" r="10" fill="#8A7F70" stroke-width="4"/>
+    <circle cx="68" cy="40" r="3" fill="#FFFFFF" stroke="none"/><circle cx="77" cy="40" r="3" fill="#FFFFFF" stroke="none"/>
+    <path d="M68,31 C62,18 52,12 44,14 M76,31 C82,18 92,12 100,14" fill="none" stroke-width="3"/>
+  </g>
+</svg>

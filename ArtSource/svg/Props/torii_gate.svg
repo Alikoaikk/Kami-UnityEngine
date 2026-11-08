@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="448" viewBox="0 0 384 448">
+  <!-- Torii gate: level exit. Walk through it to finish the level. 3 x 3.5 tiles. Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="80" y="110" width="32" height="312" fill="#A32D2D" stroke-width="5"/>
+    <rect x="272" y="110" width="32" height="312" fill="#A32D2D" stroke-width="5"/>
+    <rect x="98" y="112" width="10" height="306" fill="#C04848" stroke="none"/>
+    <rect x="290" y="112" width="10" height="306" fill="#C04848" stroke="none"/>
+    <rect x="74" y="416" width="44" height="28" rx="4" fill="#2C2C2A" stroke-width="5"/>
+    <rect x="266" y="416" width="44" height="28" rx="4" fill="#2C2C2A" stroke-width="5"/>
+    <rect x="52" y="162" width="280" height="22" fill="#A32D2D" stroke-width="5"/>
+    <rect x="44" y="94" width="296" height="22" fill="#A32D2D" stroke-width="5"/>
+    <path d="M18,86 C120,104 264,104 366,86 L356,58 C262,76 122,76 28,58 Z" fill="#2C2C2A" stroke-width="5"/>
+    <rect x="170" y="110" width="44" height="54" rx="3" fill="#2C2C2A" stroke="#E2A93B" stroke-width="3"/>
+    <text x="192" y="149" font-family="Hiragino Mincho ProN" font-size="30" font-weight="bold" fill="#F2C766" text-anchor="middle" stroke="none">紙</text>
+  </g>
+</svg>

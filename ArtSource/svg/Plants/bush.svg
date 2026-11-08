@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="112" viewBox="0 0 192 112">
+  <!-- Bush, 1.5 tiles wide. Pivot: bottom centre. -->
+  <clipPath id="ground"><rect width="192" height="108"/></clipPath>
+  <g clip-path="url(#ground)"><circle cx="54" cy="72" r="38" fill="#2C2C2A" stroke="#2C2C2A" stroke-width="9"/><circle cx="100" cy="54" r="50" fill="#2C2C2A" stroke="#2C2C2A" stroke-width="9"/><circle cx="148" cy="74" r="36" fill="#2C2C2A" stroke="#2C2C2A" stroke-width="9"/><circle cx="54" cy="72" r="38" fill="#8DBF5A"/><circle cx="100" cy="54" r="50" fill="#8DBF5A"/><circle cx="148" cy="74" r="36" fill="#8DBF5A"/><circle cx="46" cy="62" r="21" fill="#A6CF6A"/><circle cx="92" cy="44" r="28" fill="#A6CF6A"/><circle cx="140" cy="64" r="20" fill="#A6CF6A"/><rect x="0" y="108" width="192" height="10" fill="none"/></g>
+  <path d="M14,107 L178,107" stroke="#2C2C2A" stroke-width="4.5" stroke-linecap="round"/>
+</svg>

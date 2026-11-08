@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="112" viewBox="0 0 160 112">
+  <!-- Ink Bat, wings down (alternate with ink_bat). Pivot: centre. -->
+  <path d="M60,60 C46,72 28,90 8,92 C16,84 17,77 13,70 C24,71 30,67 32,58 C40,62 46,60 52,52 Z" fill="#2C2C2A"/>
+  <path d="M100,60 C114,72 132,90 152,92 C144,84 143,77 147,70 C136,71 130,67 128,58 C120,62 114,60 108,52 Z" fill="#2C2C2A"/>
+  <path d="M62,42 L58,24 L74,36 Z M98,42 L102,24 L86,36 Z" fill="#2C2C2A"/>
+  <circle cx="80" cy="60" r="27" fill="#2C2C2A"/>
+  <path d="M62,50 C64,42 70,38 78,37" fill="none" stroke="#5B5A55" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="70" cy="60" rx="8" ry="9" fill="#FFFFFF"/><ellipse cx="88" cy="60" rx="8" ry="9" fill="#FFFFFF"/>
+  <circle cx="67" cy="62" r="4" fill="#2C2C2A"/><circle cx="85" cy="62" r="4" fill="#2C2C2A"/>
+  <path d="M74,78 L77,85 L80,78 Z" fill="#FFFFFF"/>
+</svg>

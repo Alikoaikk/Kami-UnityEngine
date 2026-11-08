@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="80" viewBox="0 0 128 80">
+  <!-- Bamboo spikes, 1 tile wide: tear Kami on touch. Tile them along the floor. Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M6,80 L6,36 L24,14 L24,80 Z" fill="#97C459" stroke-width="4"/>
+    <path d="M30,80 L30,26 L48,6 L48,80 Z" fill="#97C459" stroke-width="4"/>
+    <path d="M54,80 L54,32 L72,10 L72,80 Z" fill="#97C459" stroke-width="4"/>
+    <path d="M78,80 L78,22 L96,4 L96,80 Z" fill="#97C459" stroke-width="4"/>
+    <path d="M102,80 L102,34 L120,14 L120,80 Z" fill="#97C459" stroke-width="4"/>
+    <path d="M6,36 L24,14 L18,30 Z M30,26 L48,6 L42,22 Z M54,32 L72,10 L66,26 Z M78,22 L96,4 L90,18 Z M102,34 L120,14 L114,30 Z" fill="#E4EFC9" stroke-width="2.5"/>
+    <path d="M2,62 L126,62" fill="none" stroke="#8A6A44" stroke-width="6"/>
+  </g>
+</svg>

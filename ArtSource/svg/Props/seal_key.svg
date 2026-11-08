@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="96" viewBox="0 0 64 96">
+  <!-- Seal key: a hanko stamp that opens a seal_door. Pivot: centre. Bob it up and down. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M32,6 C44,6 48,14 46,26 L44,58 L20,58 L18,26 C16,14 20,6 32,6 Z" fill="#B08A5C" stroke-width="4.5"/>
+    <path d="M26,14 L26,52" fill="none" stroke="#D9BC8C" stroke-width="4"/>
+    <rect x="12" y="56" width="40" height="28" rx="5" fill="#A32D2D" stroke-width="4.5"/>
+    <path d="M18,76 L46,76" fill="none" stroke="#7E1F1F" stroke-width="3"/>
+    <path d="M46,30 C56,34 58,44 54,52" fill="none" stroke="#A32D2D" stroke-width="3.5"/>
+    <circle cx="54" cy="56" r="3.5" fill="#A32D2D" stroke="none"/>
+  </g>
+</svg>

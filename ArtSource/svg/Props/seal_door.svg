@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="384" viewBox="0 0 128 384">
+  <!-- Seal door, 1 x 3 tiles: opens when Kami carries a seal_key to it. Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="10" y="4" width="108" height="377" rx="4" fill="#8A6A4A" stroke-width="5"/>
+    <path d="M37,8 L37,378 M64,8 L64,378 M91,8 L91,378" fill="none" stroke="#6B4F35" stroke-width="3"/>
+    <path d="M14,40 L114,40 M14,344 L114,344" fill="none" stroke-width="4"/>
+    <path d="M18,120 L110,260 M110,120 L18,260" fill="none" stroke="#FFFFFF" stroke-width="14"/>
+    <path d="M18,120 L110,260 M110,120 L18,260" fill="none" stroke="#A32D2D" stroke-width="3" stroke-dasharray="8 10"/>
+    <circle cx="64" cy="190" r="34" fill="#A32D2D" stroke="#FFFFFF" stroke-width="5"/>
+    <circle cx="64" cy="190" r="38" fill="none" stroke-width="3"/>
+    <text x="64" y="208" font-family="Hiragino Mincho ProN" font-size="44" font-weight="bold" fill="#FFFFFF" text-anchor="middle" stroke="none">封</text>
+  </g>
+</svg>

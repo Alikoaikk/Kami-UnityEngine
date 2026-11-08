@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="320" viewBox="0 0 192 320">
+  <!-- Pine, 1.5 x 2.5 tiles. Pivot: bottom centre. Mountain (levels 9-12). -->
+  <rect x="87" y="262" width="18" height="56" fill="#8A6A4A" stroke="#2C2C2A" stroke-width="4.5"/>
+  <path d="M96,132 L20,276 L172,276 Z" fill="#5E8A33" stroke="#2C2C2A" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M96,136 L96,273 L166,273 Z" fill="#476B24"/>
+  <path d="M96,132 L20,276 L172,276 Z" fill="none" stroke="#2C2C2A" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M96,72 L36,196 L156,196 Z" fill="#5E8A33" stroke="#2C2C2A" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M96,76 L96,193 L150,193 Z" fill="#476B24"/>
+  <path d="M96,72 L36,196 L156,196 Z" fill="none" stroke="#2C2C2A" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M96,16 L52,124 L140,124 Z" fill="#5E8A33" stroke="#2C2C2A" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M96,20 L96,121 L134,121 Z" fill="#476B24"/>
+  <path d="M96,16 L52,124 L140,124 Z" fill="none" stroke="#2C2C2A" stroke-width="5" stroke-linejoin="round"/>
+</svg>

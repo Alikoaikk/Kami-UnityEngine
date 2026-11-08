@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96">
+  <!-- Water splash: entering/leaving water. Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round" stroke-width="3.5">
+    <path d="M40,92 C36,70 26,58 14,52 C30,52 44,62 52,80 Z" fill="#A9CCDD"/>
+    <path d="M120,92 C124,70 134,58 146,52 C130,52 116,62 108,80 Z" fill="#A9CCDD"/>
+    <path d="M64,90 C62,60 66,34 78,14 C80,40 84,62 92,90 Z" fill="#DCEBF2"/>
+    <circle cx="44" cy="30" r="6" fill="#A9CCDD"/><circle cx="114" cy="24" r="5" fill="#A9CCDD"/><circle cx="96" cy="8" r="4" fill="#DCEBF2"/>
+  </g>
+</svg>

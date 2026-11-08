@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="96" viewBox="0 0 128 96">
+  <!-- Paper spring, squashed (show for ~0.1 s on bounce). Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round" stroke-width="3">
+    <path d="M26,60 L102,60 L92,65 L36,65 Z" fill="#FFFFFF"/>
+    <path d="M36,65 L92,65 L102,70 L26,70 Z" fill="#EDE5D6"/>
+    <path d="M26,70 L102,70 L92,75 L36,75 Z" fill="#FFFFFF"/>
+    <path d="M36,75 L92,75 L102,80 L26,80 Z" fill="#EDE5D6"/>
+    <rect x="18" y="46" width="92" height="15" rx="5" fill="#A32D2D" stroke-width="4.5"/>
+    <rect x="14" y="80" width="100" height="14" rx="4" fill="#857E73" stroke-width="4.5"/>
+    <path d="M8,56 L2,50 M120,56 L126,50 M10,40 L4,36 M118,40 L124,36" fill="none" stroke-width="3"/>
+  </g>
+</svg>

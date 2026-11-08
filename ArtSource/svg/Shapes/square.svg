@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <!-- Plain white square. Base sprite for M_Water, M_Ink and M_Wind areas; scale it to size. -->
+  <rect width="64" height="64" fill="#FFFFFF"/>
+</svg>

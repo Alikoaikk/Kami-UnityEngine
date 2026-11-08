@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="512" viewBox="0 0 1024 512">
+  <!-- Finale sky, stained by the spilled ink (level 13). Stretch it behind everything. Pivot: centre. -->
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2C2C2A"/><stop offset="0.6" stop-color="#4A4743"/><stop offset="1" stop-color="#7A7268"/></linearGradient></defs>
+  <rect width="1024" height="512" fill="url(#g)"/>
+  <circle cx="760" cy="170" r="110" fill="#7E2323" fill-opacity="0.75"/>
+  <g fill="none" stroke="#5B5A55" stroke-width="10" stroke-linecap="round"><path d="M60,120 C140,60 240,80 260,140 C276,190 214,206 196,170"/><path d="M420,70 C520,20 640,40 660,100"/><path d="M120,300 C260,250 380,290 420,330 C450,360 410,390 384,368"/><path d="M620,330 C720,280 860,300 960,260"/></g>
+</svg>

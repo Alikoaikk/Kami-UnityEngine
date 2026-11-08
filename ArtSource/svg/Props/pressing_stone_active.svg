@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="120" viewBox="0 0 200 120">
+  <!-- Pressing stone (active): the last stone Kami touched. Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M8,116 A92,92 0 0 1 192,116" fill="none" stroke="#E2A93B" stroke-width="5" stroke-dasharray="10 11"/>
+    <path d="M24,116 C24,64 56,40 100,40 C144,40 176,64 176,116 Z" fill="#9E978B" stroke-width="5"/>
+    <path d="M44,84 C50,64 70,52 92,50" fill="none" stroke="#C4BDB0" stroke-width="7"/>
+    <path d="M100,86 a5,5 0 0 1 10,0 a10,10 0 0 1 -20,0 a15,15 0 0 1 30,0 a20,20 0 0 1 -40,0" fill="none" stroke="#A32D2D" stroke-width="5"/>
+    <path d="M14,116 L186,116" fill="none" stroke-width="5"/>
+  </g>
+</svg>

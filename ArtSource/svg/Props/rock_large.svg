@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="128" viewBox="0 0 192 128">
+  <!-- Large boulder. Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M10,124 C6,90 20,56 52,40 C70,18 112,10 140,28 C170,40 188,80 182,124 Z" fill="#A39C90" stroke-width="5"/>
+    <path d="M100,26 C96,60 120,90 112,124" fill="none" stroke="#857E73" stroke-width="3"/>
+    <path d="M40,64 C50,48 66,40 82,38" fill="none" stroke="#C4BDB0" stroke-width="7"/>
+    <path d="M118,22 C132,18 148,24 156,34 C140,34 126,32 118,22 Z" fill="#8DBF5A" stroke-width="3"/>
+  </g>
+</svg>

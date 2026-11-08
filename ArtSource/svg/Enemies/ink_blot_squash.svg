@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="116" viewBox="0 0 152 116">
+  <!-- Ink Blot, squashed frame (alternate with ink_blot for a wobble walk). -->
+  <g transform="translate(76,116) scale(1.12,0.86) translate(-68,-116)">
+    <path d="M24,104 C12,92 12,66 24,52 C26,34 44,22 60,26 C70,14 92,16 100,30 C116,32 126,48 120,62 C130,76 126,96 114,106 C108,112 100,108 96,113 C90,117 84,110 78,113 C70,117 62,110 56,113 C46,117 40,108 34,111 C28,113 26,108 24,104 Z" fill="#2C2C2A"/>
+    <path d="M36,52 C38,42 46,35 56,34" fill="none" stroke="#5B5A55" stroke-width="5" stroke-linecap="round"/>
+    <ellipse cx="48" cy="68" rx="12" ry="12" fill="#FFFFFF"/>
+    <ellipse cx="78" cy="66" rx="12" ry="12" fill="#FFFFFF"/>
+    <circle cx="43" cy="70" r="6" fill="#2C2C2A"/>
+    <circle cx="73" cy="68" r="6" fill="#2C2C2A"/>
+  </g>
+  <circle cx="10" cy="56" r="4.5" fill="#2C2C2A"/>
+  <circle cx="142" cy="46" r="4" fill="#2C2C2A"/>
+  <circle cx="6" cy="94" r="3" fill="#2C2C2A"/>
+</svg>

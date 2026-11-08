@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="120" viewBox="0 0 176 120">
+  <!-- Snip Crab, claws open. A scissor-crab: touching the blades tears Kami. Faces left. Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M74,88 L54,100 L46,117 M86,92 L72,106 L68,117 M108,88 L128,100 L136,117 M98,92 L112,106 L116,117" fill="none" stroke-width="5"/>
+    <path d="M78,58 L72,36 M100,58 L104,36" fill="none" stroke-width="4"/>
+    <circle cx="72" cy="32" r="9" fill="#FFFFFF" stroke-width="4"/><circle cx="104" cy="32" r="9" fill="#FFFFFF" stroke-width="4"/>
+    <circle cx="69" cy="33" r="4" fill="#2C2C2A" stroke="none"/><circle cx="101" cy="33" r="4" fill="#2C2C2A" stroke="none"/>
+    <ellipse cx="92" cy="78" rx="42" ry="26" fill="#9AA3A8" stroke-width="5"/>
+    <path d="M64,70 C70,60 82,56 94,56" fill="none" stroke="#C9D0D4" stroke-width="5"/>
+    <circle cx="112" cy="74" r="3" fill="#2C2C2A" stroke="none"/><circle cx="122" cy="82" r="3" fill="#2C2C2A" stroke="none"/>
+    <!-- scissor claw -->
+    <circle cx="60" cy="64" r="9" fill="none" stroke="#A32D2D" stroke-width="6"/>
+    <circle cx="60" cy="88" r="9" fill="none" stroke="#A32D2D" stroke-width="6"/>
+    <circle cx="60" cy="64" r="13" fill="none" stroke-width="2.5"/>
+    <circle cx="60" cy="88" r="13" fill="none" stroke-width="2.5"/>
+    <path d="M48,68 L4,42 C2,50 8,56 40,80 Z" fill="#DDE2E5" stroke-width="4"/>
+    <path d="M48,84 L4,108 C2,100 8,94 40,72 Z" fill="#C3CACE" stroke-width="4"/>
+    <circle cx="42" cy="76" r="5" fill="#2C2C2A" stroke="none"/>
+  </g>
+</svg>

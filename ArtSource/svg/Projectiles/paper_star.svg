@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <!-- Paper star (shuriken). Pivot: centre. 14 tiles/s, range 8 tiles. Spin it in code. -->
+  <g stroke-linejoin="round">
+    <path d="M32,4 L26,26 L32,32 Z M60,32 L38,26 L32,32 Z M32,60 L38,38 L32,32 Z M4,32 L26,38 L32,32 Z" fill="#FFFFFF"/>
+    <path d="M32,4 L38,26 L32,32 Z M60,32 L38,38 L32,32 Z M32,60 L26,38 L32,32 Z M4,32 L26,26 L32,32 Z" fill="#E3D8C4"/>
+    <path d="M32,4 L38,26 L60,32 L38,38 L32,60 L26,38 L4,32 L26,26 Z" fill="none" stroke="#2C2C2A" stroke-width="4"/>
+    <circle cx="32" cy="32" r="4.5" fill="#2C2C2A"/>
+  </g>
+</svg>

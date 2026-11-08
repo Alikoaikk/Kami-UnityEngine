@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="48" viewBox="0 0 56 48">
+  <!-- Origami butterfly (ambient), wings open. Alternate with butterfly_flap. Pivot: centre. -->
+  <g stroke="#2C2C2A" stroke-width="3" stroke-linejoin="round">
+    <path d="M28,24 L4,6 L10,30 Z M28,24 L52,6 L46,30 Z" fill="#FFFFFF"/>
+    <path d="M28,24 L12,42 L24,40 Z M28,24 L44,42 L32,40 Z" fill="#C04848"/>
+    <path d="M28,14 L28,38" stroke-width="4"/>
+  </g>
+</svg>

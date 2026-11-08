@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="384" viewBox="0 0 128 384">
+  <!-- Stone gate, 1 x 3 tiles. Opens (slides up) when its switch is held. Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="12" y="4" width="104" height="377" rx="6" fill="#B3AC9F" stroke-width="5"/>
+    <path d="M14,26 L114,26 M14,358 L114,358" fill="none" stroke-width="3"/>
+    <path d="M14,110 L114,110 M14,274 L114,274 M64,26 L64,110 M40,110 L40,150 M88,234 L88,274 M64,274 L64,358" fill="none" stroke="#857E73" stroke-width="3"/>
+    <circle cx="64" cy="192" r="32" fill="#9E978B" stroke-width="4.5"/>
+    <path d="M64,192 a5,5 0 0 1 10,0 a10,10 0 0 1 -20,0 a15,15 0 0 1 30,0 a20,20 0 0 1 -40,0" fill="none" stroke-width="4"/>
+    <path d="M24,60 C30,48 40,42 52,40" fill="none" stroke="#CFC8BB" stroke-width="5"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="128" viewBox="0 0 80 128">
+  <!-- Paper lantern. Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M40,3 L40,15" fill="none" stroke-width="4"/>
+    <path d="M24,24 C6,40 6,92 24,108 L56,108 C74,92 74,40 56,24 Z" fill="#B8382C" stroke-width="5"/>
+    <path d="M40,24 L40,108 M30,25 C20,44 20,88 30,107 M50,25 C60,44 60,88 50,107" fill="none" stroke="#7E1F1F" stroke-width="2.5"/>
+    <path d="M40,50 C48,60 50,70 46,80 C44,84 36,84 34,80 C30,70 32,60 40,50 Z" fill="#F2B84B" stroke="#C98A1E" stroke-width="2"/>
+    <rect x="21" y="14" width="38" height="11" rx="3" fill="#2C2C2A" stroke="none"/>
+    <rect x="21" y="107" width="38" height="11" rx="3" fill="#2C2C2A" stroke="none"/>
+    <path d="M40,118 L40,126" fill="none" stroke="#A32D2D" stroke-width="4"/>
+  </g>
+</svg>

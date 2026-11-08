@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <!-- One-way bamboo bridge (use a PlatformEffector2D). Pole sits in the top quarter of the cell. -->
+  <rect x="-12" y="8" width="152" height="26" fill="#97C459"/>
+  <rect x="-12" y="23" width="152" height="11" fill="#86B34A"/>
+  <path d="M-12,14 L140,14" stroke="#B5DA80" stroke-width="3"/>
+  <path d="M-12,8 L140,8 M-12,34 L140,34" stroke="#2C2C2A" stroke-width="4.5" stroke-linecap="round"/>
+  <rect x="61" y="6" width="7" height="30" rx="3" fill="#7FAE4E" stroke="#2C2C2A" stroke-width="3"/>
+</svg>

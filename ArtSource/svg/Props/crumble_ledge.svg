@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="64" viewBox="0 0 256 64">
+  <!-- Crumbling paper ledge, 2 tiles: shakes then falls ~0.6 s after Kami lands. Pivot: top centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M8,10 L248,10 L240,28 L16,28 Z" fill="#FFFFFF" stroke-width="4.5"/>
+    <path d="M16,28 L240,28 L232,54 L24,54 Z" fill="#EDE5D6" stroke-width="4.5"/>
+    <path d="M64,28 L60,54 M112,28 L110,54 M160,28 L160,54 M208,28 L210,54" fill="none" stroke-width="2.5"/>
+    <path d="M60,10 L64,28 M108,10 L112,28 M156,10 L160,28 M204,10 L208,28" fill="none" stroke-width="2" stroke-opacity="0.5"/>
+  </g>
+</svg>

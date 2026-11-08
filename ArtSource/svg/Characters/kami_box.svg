@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="148" viewBox="0 0 172 148">
+  <!-- Kami, box form. Blots bounce off; holds switches. Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <!-- headband tails -->
+    <path d="M38,62 C26,56 14,56 4,60 L12,70 C22,68 30,68 38,71 Z" fill="#A32D2D" stroke-width="4"/>
+    <path d="M38,70 C30,78 22,88 18,98 L28,96 C32,88 36,82 39,77 Z" fill="#A32D2D" stroke-width="4"/>
+    <!-- top -->
+    <path d="M36,48 L68,20 L164,20 L132,48 Z" fill="#FFFFFF" stroke-width="5"/>
+    <path d="M56,42 L74,27 L148,27 L130,42 Z" fill="#DCD1BD" stroke-width="2.5"/>
+    <path d="M74,27 L72,38 L56,42" fill="none" stroke-width="2"/>
+    <!-- right side -->
+    <path d="M132,48 L164,20 L164,116 L132,144 Z" fill="#EDE5D6" stroke-width="5"/>
+    <path d="M132,60 L164,32 L164,46 L132,74 Z" fill="#7E2323" stroke-width="3.5"/>
+    <!-- front -->
+    <rect x="36" y="48" width="96" height="96" fill="#FFFFFF" stroke-width="5"/>
+    <rect x="36" y="60" width="96" height="14" fill="#A32D2D" stroke-width="3.5"/>
+    <circle cx="70" cy="104" r="5.5" fill="#2C2C2A" stroke="none"/>
+    <circle cx="98" cy="104" r="5.5" fill="#2C2C2A" stroke="none"/>
+  </g>
+</svg>

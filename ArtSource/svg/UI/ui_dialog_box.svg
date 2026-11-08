@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="176" viewBox="0 0 512 176">
+  <!-- Dialogue box (Sage hints, tutorials). 9-slice: border 32 (set by the importer). -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M14,12 L498,12 L498,148 L96,148 L64,170 L68,148 L14,148 Z" fill="#FFFFFF" stroke-width="5"/>
+    <path d="M24,22 L488,22" fill="none" stroke="#A32D2D" stroke-width="4"/>
+    <path d="M14,12 L40,12 L14,38 Z" fill="#EDE5D6" stroke-width="3"/>
+  </g>
+</svg>

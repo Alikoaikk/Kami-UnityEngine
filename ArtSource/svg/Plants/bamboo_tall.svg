@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="768" viewBox="0 0 224 768">
+  <!-- Bamboo stalk, 6.0 tiles tall. Pivot: bottom centre. Bamboo forest (levels 1-4). -->
+  <path d="M123.0,586.2 L145.0,566.2" stroke="#5F8A2E" stroke-width="3" stroke-linecap="round"/>
+  <g transform="translate(145.0,566.2) rotate(-35.7)"><path d="M0,0 Q28.3,-9.0 62.8,0 Q28.3,9.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L50.3,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <g transform="translate(145.0,566.2) rotate(5.5)"><path d="M0,0 Q23.2,-9.0 51.6,0 Q23.2,9.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L41.3,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <g transform="translate(145.0,566.2) rotate(33.1)"><path d="M0,0 Q22.7,-9.0 50.4,0 Q22.7,9.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L40.3,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <path d="M101.0,480.9 L79.0,460.9" stroke="#5F8A2E" stroke-width="3" stroke-linecap="round"/>
+  <g transform="translate(79.0,460.9) rotate(205.0)"><path d="M0,0 Q25.2,-9.0 56.1,0 Q25.2,9.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L44.9,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <g transform="translate(79.0,460.9) rotate(180.5)"><path d="M0,0 Q25.5,-9.0 56.8,0 Q25.5,9.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L45.4,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <g transform="translate(79.0,460.9) rotate(151.5)"><path d="M0,0 Q24.1,-9.0 53.5,0 Q24.1,9.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L42.8,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <path d="M123.0,291.8 L145.0,271.8" stroke="#5F8A2E" stroke-width="3" stroke-linecap="round"/>
+  <g transform="translate(145.0,271.8) rotate(-25.0)"><path d="M0,0 Q26.5,-9.0 58.8,0 Q26.5,9.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L47.1,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <g transform="translate(145.0,271.8) rotate(1.5)"><path d="M0,0 Q27.4,-9.0 60.8,0 Q27.4,9.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L48.7,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <g transform="translate(145.0,271.8) rotate(40.2)"><path d="M0,0 Q29.4,-9.0 65.2,0 Q29.4,9.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L52.2,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <path d="M101.0,93.0 L79.0,73.0" stroke="#5F8A2E" stroke-width="3" stroke-linecap="round"/>
+  <g transform="translate(79.0,73.0) rotate(213.3)"><path d="M0,0 Q29.1,-9.0 64.7,0 Q29.1,9.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L51.7,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <g transform="translate(79.0,73.0) rotate(169.2)"><path d="M0,0 Q23.2,-9.0 51.6,0 Q23.2,9.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L41.3,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <g transform="translate(79.0,73.0) rotate(141.9)"><path d="M0,0 Q27.7,-9.0 61.6,0 Q27.7,9.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L49.3,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <path d="M101.0,772 L101.0,25.0 A11.0,11.0 0 0 1 123.0,25.0 L123.0,772 Z" fill="#97C459" stroke="#5F8A2E" stroke-width="3.5"/>
+  <rect x="114" y="22" width="7.0" height="754" fill="#86B34A"/>
+  <path d="M106.0,30 L106.0,772" stroke="#B5DA80" stroke-width="3"/>
+  <rect x="98.5" y="690.5" width="27" height="7" rx="3.5" fill="#7FAE4E" stroke="#5F8A2E" stroke-width="2.5"/>
+  <rect x="98.5" y="582.7" width="27" height="7" rx="3.5" fill="#7FAE4E" stroke="#5F8A2E" stroke-width="2.5"/>
+  <rect x="98.5" y="477.4" width="27" height="7" rx="3.5" fill="#7FAE4E" stroke="#5F8A2E" stroke-width="2.5"/>
+  <rect x="98.5" y="386.2" width="27" height="7" rx="3.5" fill="#7FAE4E" stroke="#5F8A2E" stroke-width="2.5"/>
+  <rect x="98.5" y="288.3" width="27" height="7" rx="3.5" fill="#7FAE4E" stroke="#5F8A2E" stroke-width="2.5"/>
+  <rect x="98.5" y="191.8" width="27" height="7" rx="3.5" fill="#7FAE4E" stroke="#5F8A2E" stroke-width="2.5"/>
+  <rect x="98.5" y="89.5" width="27" height="7" rx="3.5" fill="#7FAE4E" stroke="#5F8A2E" stroke-width="2.5"/>
+  <g transform="translate(112.0,24.0) rotate(-152.4)"><path d="M0,0 Q24.7,-8.0 54.9,0 Q24.7,8.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L43.9,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <g transform="translate(112.0,24.0) rotate(-113.3)"><path d="M0,0 Q26.0,-8.0 57.7,0 Q26.0,8.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L46.1,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <g transform="translate(112.0,24.0) rotate(-62.0)"><path d="M0,0 Q25.9,-8.0 57.6,0 Q25.9,8.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L46.1,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+  <g transform="translate(112.0,24.0) rotate(-29.9)"><path d="M0,0 Q25.6,-8.0 56.9,0 Q25.6,8.0 0,0 Z" fill="#A6CF6A" stroke="#5F8A2E" stroke-width="2.5" stroke-linejoin="round"/><path d="M3,0 L45.5,0" stroke="#7FAE4E" stroke-width="1.6" stroke-linecap="round"/></g>
+</svg>

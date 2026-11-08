@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="128" viewBox="0 0 56 128">
+  <!-- Wind chime (furin): hang near wind columns; swing it in code. Pivot: top centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M28,2 L28,16" fill="none" stroke-width="3"/>
+    <path d="M10,46 C10,24 18,16 28,16 C38,16 46,24 46,46 Z" fill="#DCEBF2" stroke-width="4"/>
+    <path d="M14,36 C20,32 24,40 30,36 C36,32 40,40 44,36" fill="none" stroke="#A32D2D" stroke-width="3"/>
+    <path d="M28,46 L28,62" fill="none" stroke-width="2.5"/>
+    <rect x="20" y="62" width="16" height="60" rx="2" fill="#FFFFFF" stroke-width="3"/>
+    <path d="M28,72 L28,100 M24,84 L32,80" fill="none" stroke="#A32D2D" stroke-width="3"/>
+  </g>
+</svg>

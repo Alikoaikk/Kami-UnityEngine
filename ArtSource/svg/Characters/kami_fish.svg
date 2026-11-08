@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="108" viewBox="0 0 184 108">
+  <!-- Kami, fish form. Faces right. Pivot: bottom centre. -->
+  <g stroke="#2C2C2A" stroke-linejoin="round" stroke-linecap="round">
+    <!-- tail -->
+    <path d="M48,56 L14,26 L24,56 L14,86 Z" fill="#EDE5D6" stroke-width="5"/>
+    <!-- fins -->
+    <path d="M92,30 L80,12 L112,26 Z" fill="#EDE5D6" stroke-width="4"/>
+    <path d="M96,84 L108,104 L118,80 Z" fill="#EDE5D6" stroke-width="4"/>
+    <!-- body -->
+    <path d="M44,56 L104,22 L166,56 L104,90 Z" fill="#FFFFFF" stroke="none"/>
+    <path d="M44,56 L166,56 L104,90 Z" fill="#EDE5D6" stroke="none"/>
+    <path d="M44,56 L166,56 M134,39 L134,73" fill="none" stroke-width="2.5"/>
+    <path d="M44,56 L104,22 L166,56 L104,90 Z" fill="none" stroke-width="5"/>
+    <!-- headband + tails -->
+    <path d="M60,49 C52,35 42,29 28,29 L34,40 C43,41 51,46 57,55 Z" fill="#A32D2D" stroke-width="3.5"/>
+    <path d="M56,49.5 L66,44 L66,68 L56,62.5 Z" fill="#A32D2D" stroke-width="3.5"/>
+    <!-- eye -->
+    <circle cx="148" cy="51" r="5.5" fill="#2C2C2A" stroke="none"/>
+    <circle cx="149.5" cy="49.5" r="1.7" fill="#FFFFFF" stroke="none"/>
+  </g>
+</svg>
